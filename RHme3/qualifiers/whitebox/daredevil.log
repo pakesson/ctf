@@ -1,0 +1,877 @@
+1 root@98f99859891e /workdir # python trace_it.py                                                                                  :(
+00000 D863E5D4888125D732055FCBC48C6C2D -> 7A24CC53F2B4FBFEA46ED6498BEC7FB8
+00001 A2F845322ED21FFA11060D92E80690E1 -> D72F23B3C7630D4C0839C4E0297D6749
+00002 E8CB13460628DABD0F42D6FA3F2A973B -> 7526E2CF2EDB5C32003B50012310AD67
+00003 1D33E2BF8CC4F2330C02DA7A1249589C -> 86B5E01A55759A03CE4ACB81124123C6
+00004 355168ACDAEAA7003E57839F237B0EFD -> E7BF877B4615F7F741B270B59660C9CA
+00005 EF6F91F1A7CF708D147443B838C576B3 -> 8CF3DD5E5BB4DB260EB2C4B911CAE90D
+00006 9ED45C1CFE40D3D9621C027CD28A94D7 -> B582769CEB2E5A849BEC85EF4D3ADC20
+00007 63DD0A3043085C099251E8CC3577EC56 -> 1ADF3D212F57B9C73B16876E4D8CA2A1
+00008 91D7CB3873B280CC66682600239D5BD5 -> DAEECFEDE27392A6831A13CEC11916B9
+00009 24E2812D2D6E62106E05E9C8998438E5 -> 72CF62D72DDBE2E752262F4C34378CA5
+00010 B9BBB8754F41587327054DE204C5D784 -> 1AFE3A39239E12A8D350F35CF1E19F51
+00011 9463776F06B40EA5BEAA3D0AF16B2A33 -> E8C34332D124815DD011578E60F5EDD6
+00012 E5774A0097E082EC736E5CA9E22F91D8 -> 0FFEAD5F13713F8CE205D2C549243D48
+00013 18F53AC98BC9128C8CD60C3587E3FEF1 -> C156EE5E23856E077D330CD3AE065649
+00014 8FC6C53C0C93E2358C39F07638891FF8 -> 1A2E854B43CF4B17C9F468DA7C62E8A7
+00015 4712599DB733F11A58C994A6F4BA0D1B -> 34CED9929C506301CF946AF6874073A8
+00016 75E16AD6DA917958DC9054BFF9359353 -> 045CEC27C61750253711954C1C35D89E
+00017 FD57E2771212216C94643F6C88D1F158 -> D20F19B215B9A0B22A0A75D3DF6E9BEC
+00018 629773BD4F1EBA5E330A97B3B6654F8C -> 2256B32A2887F3D4DD5382C173F318C9
+00019 A8E671A0E2245E7E28CD4A4FD3AFE795 -> 492C55E13F34E897CC42896C0B44CF5C
+00020 B51BDF53F994C8C75415091DEB904C68 -> DA19B4961A8B90DA2B2DCE477C59FE6F
+00021 79F822D995D006CAC8833A3E443F3CE0 -> 6FD951E8D37F6EB7C26A4B983112568C
+00022 E86B342E3B5AE7AFEFF2EE2B3F958864 -> 6264CB4BED8B8EFE7C6E40BA5665D8AF
+00023 C2738375EEB731719D0350CEA8D113B2 -> F588721D3AD9235D2F89719BCEBE5DBB
+00024 67567DBC2D22752FAD44D285E45A5790 -> C3522DFF306FB3746A150A086F4A3BE3
+00025 F34F1E5614DB7A0A6F38C05F94684E17 -> 9BC658253F3CD6D348509CC56E0C3E98
+00026 BFC05E02A836432E5AEA65990FF5DAB9 -> AD73E2BE8C02977BCB5EACA8D333088A
+00027 CED70BAAE8A810830A56C28B536584FA -> BA1068EAE6585A3175BAC910C1536AB2
+00028 6936794416DBAFF964BA5D3380E3F335 -> 074AFC9D845F3990C72C9C0424D19102
+00029 9CB392FAB3E7085CECD7097EFCB75421 -> 2181AF29668E25941044159ACF9386FA
+00030 A307D1A9C1CFF828464A9EFD350F261F -> 7D5913DF17B67BD14B35B41A0355EA88
+00031 4FC4465F0FD8D1DCB81D3BA9B8CF18C2 -> 5C781EA48720CDF49205D7136738F635
+00032 54C059C8BAC9533E0AFBAF91306E1C56 -> 0BACBB23DF17FA34A31E0031D19E194B
+00033 7CA2F9E9A2917FBB7EA4E3F37436617C -> CD998B82AB62F9BF1E26D2C8D2111106
+00034 D8371BCA09A0B878B20FEC1FBF142D0B -> 2686DF74E99BF00CB5CD342349A54C80
+00035 1E7C5EF705279D9FF35DA49EA9136B77 -> 11A213305FEA0975C468691AC6E9ED73
+00036 7EDBF7F0757D873C10F28CCCB1204404 -> F094B94912A98870DAEE0E583E7AA60F
+00037 AE5D713E4534691951829F9D74E65ECB -> 3D51D78137C69ADF151DDC7D695C69BF
+00038 23C140863085EA2AB6F6419EFCAFDA3D -> 04190D4B2C9381E91BD26612DEF95C1F
+00039 DA9995E69DADC501FA56494614AF3184 -> 6E081B5624AE26BCE9A4DFC774471B6B
+00040 468B7BA0C01A7B4B1AE6E63EF0C5987B -> DB3AB3A21ADDF1479F20D173AE697AA8
+00041 5A25BF9DF21E9A25F471026C8E9E82A5 -> D15026D1F7AEB328B6B2B7D0B3B1AFA0
+00042 7017C7AEF2F532A8355A1A98F598270C -> 80AF0EEB3D3D4F46893E5AC5C67601E8
+00043 DC99598A6DB37EFAA169A9A0A6C5896E -> 10CA17DEFE00FD7BDAEAA2C2A9DE7448
+00044 A2DA9ADB20D6BADC1585F5B3D60670FC -> 341F2B2268DF48DD72039E1E282E491F
+00045 5A846E7FCD7F37D96419617F3CD396AA -> FAC5586CFC9FAE03F996C8ABD3526D6B
+00046 5365DD37E433C4B0785E35B0BDFBB43E -> B887ADC91569CD7B506CAE7D5204412E
+00047 04A49BA34852CB31F15B51EDFC8F3479 -> C5342F403EBFD03628155C0F809086F4
+00048 CF96351BC9BA2FCAAA76E9EF1E267803 -> C265146C4A79C0DDBF9A51108AF61010
+00049 A1F4271B41BB8DEADC8E66C85C617FBD -> B268A945BDC7639411421BA81FFDF19C
+00050 E609597B2020AAEE9CE91EBDEF5CB440 -> 4FA3E54ADC10DB00EBF80FB110BD040E
+00051 D6976B4C349CBE95C2A7A5CB249FF4EA -> 1949B3029579C3D54FE5F20CE3540A91
+00052 977BC9E5365ADE85E478972B38C4F2E1 -> 4BC12953A2C6FC28249253317D5D2755
+00053 35D7B41329A7742D3AFFABBDEF493A72 -> 6537E8AD730628798CB231C2518CB822
+00054 A36050770B7F3FC69964CDD13AE1473C -> 1064DA5482A26AA9088A96F22D41210A
+00055 80CDB89214D2D240A7EEF3C7C487C566 -> 6580B1BC7814947291FE1A89313BA561
+00056 2C99574BC3B3B3E4FF6587951D68356B -> C74F2E7A2B606ED744B1D96FE16C2D35
+00057 245B14E9E9A97D485B5748FEEE0DEDCA -> BB9C4D5AB2EBB98498BC2AB2458AAD91
+00058 55BE51EF9EB95DBB7FD191C7033BCCF0 -> EBF24E01C815E497B53180FEF6F44CCB
+00059 4F07532F38D1893184696074D149956F -> 7B0A737EC1943CD5DCFDB68068ED7881
+00060 618912B072741F6DFAB922F2E2227957 -> BB38316462F1D8FEF0205D06F1AD7C8E
+00061 6258D66EC6E3D40D3B1B4EBCAE053518 -> 53CB7357EA7FBEAFB8F2454EA239D294
+00062 77610D620D1288A3C3CA605B87E9B549 -> 89220B059BF8DB71C9C8C35FB1FA8FAE
+00063 9906E9A4E5581284A6C5319FC4807BDD -> C75A43D5E42BABB1142F914E6B24532E
+00064 BD0DD89E998D96561230755DCA895684 -> 20227167A0720A37C61C20948BEC1869
+00065 44E648A48FD1B8982DB77F84624918D2 -> 42C9D483D01ED084AEDF7B8CB7668D09
+00066 3371B404201AF35D0BB4B5159C38E4AE -> 2A985A33AF263E792DF981D7DAE231C7
+00067 A29D20E3B460F60AC4309708DB2EC89F -> 2AFD487A37F22DBE642B1B1D5F450AEB
+00068 8BFDACB6F2D38F1C4DA18AE704822417 -> AF6A017C99D0B9ADBA3CF2DEF320C371
+00069 C48C74C101F33132B025899E835CFC16 -> 2C75D45EF22AFDFC0285F8FD2B639AD9
+00070 D0D6FC3E9195468A30EBDED279BB8E5D -> 382A3C0ABDDDCD579B9BA38A55E8F06E
+00071 F228C02A37D098182CD36BCC38211032 -> DDE822FA68D6337BD35E6A50E47AE8FE
+00072 B05487D85FC83A25157274D150F85475 -> 13EF7F8FBBE2852DB3787D246E1B98F9
+00073 9CE8E4B8917E9CDCED92BC88F04358C3 -> BA979D167BDD989B960410715732BB83
+00074 D36DFCA3867847DE4D4EB79D8680F050 -> 1D38F1336DAAFF07091055B7D72BE947
+00075 1581BD0F1A5C191FD26D0BF8557B4DE2 -> 656DB9A35DABB91E22A3FBDFC9979B42
+00076 C5328B00C2A03DDE23E65A33BA56AF3A -> 8ABA845ED32F482F119BAB8C977844A0
+00077 8A274517DD57CD928659260494424538 -> 0FBA524FAEA708FE92352EC815AEAFC0
+00078 8313E969B743377290E4DD7A2A1CCE77 -> 63BC2D1EA003E5FD8D371B41CB18D05E
+00079 EF73E42777B128D332F9061DE73E38EC -> BF9D4C866820CEE7EA7645441254FE92
+00080 47B252D2126DE9DA1215482A304EF8EA -> 29ED4E77A48B2E83ECB053BBBD7C9CC7
+00081 50837AF3584C2395FD68957DED8272CF -> 0DA6A08CA228B4459EFA3C330FCF8FC3
+00082 33228625569A7ED6B36339CF52B11B52 -> 56A501C0BB8174A25D034603BF620FD9
+00083 A594B13BAFA6238E6349478D33CB69E4 -> DF4CBD1DA557A5BCC9F0C1937DAA035F
+00084 BF5E08C3558A8FEE7925894F043AE25C -> E6BF0B67F06132825D228CCBE975EB30
+00085 5DB78BE9EBF7EDB9629A9DD97BE25681 -> 84F91F81DC6E93950B337736BE587B1F
+00086 C8A020A70B813219E3262C6DAF50E8CA -> FDAA5D1E1B8564025EC2754BC2C3C956
+00087 713B3DE28DDB547B4640FFD3212B7DA0 -> 9DE600875250F1A201B36EEEAAE69072
+00088 E107E54EE8B348E674D75D7DFDC8087A -> A9E4880D6AED9EC7AEF8136304E4DF7F
+00089 7CB9B470D67E87675348588896853752 -> B3C8FAEFA58F28C1A2E379C607E8B599
+00090 F1E8FB7D9816932CF222EAA12E0FFC24 -> 11AC29B2DB46A9E51B11B0885A00B237
+00091 F5912045B4DA13EBF71C0544F75AF740 -> F2CA4F9DE46663C631FC30076497261D
+00092 B0514B35933D860E364B3F4178941C2D -> 97E95226BBC66E2E3CC8F0852C15A67B
+00093 F440FD15829788DE539FE99E982AC760 -> 6EE64A3D667AD3ACA7875061CA6D59CE
+00094 8F1FE85258AA3DC64DB6E3526737803A -> B55445E64CDE3BAAF9291C2A3132904A
+00095 C231657400A0858310439130323E4297 -> 4EECFDD0787909B1B21A8F98D7B72346
+00096 D1E22D330E8DE86193B1EC961ED762EF -> 5AC2284F4F920C55477ECC1369B3F307
+00097 3CA48935CE2BCE938153F5329211FA92 -> A7598561152C132827EF057BFD12FD2C
+00098 6671203E7DECA7481829382270240221 -> 82C0008E0098A7E45EA4513D9C68243B
+00099 2E0DD1168765ED57256E478FD4715A75 -> AAE3F4E057D3BFAE35EF83ED89C81D59
+python trace_it.py  47.64s user 9.33s system 92% cpu 1:01.41 total
+root@98f99859891e /workdir # daredevil -c mem_addr1_rw1_100_42808.attack_sbox.config 
+
+[CONFIGURATION]
+
+  [GENERAL]
+	Number of threads:	 8
+	Index first sample:	 0
+	Number of samples:	 42808
+	Total number traces:	 100
+	Target number traces:	 100
+	Total number keys:	 256
+	Attack order:		 1
+	Return Type:		 d
+	Window size:		 0
+	Algorithm:		 AES
+	Round:			 0
+	Bytenum:		 all
+	Target all bits individually.
+	Secret Key:		 Unspecified
+	Memory:			 4.00GB
+	Keep track of:		 20
+	Separator :		 STANDARD
+
+  [TRACES]
+	Traces files:		 1
+	Traces type:		 i
+	Transpose traces:	 True
+	Total number samples:	 42808
+	Traces:
+	1. mem_addr1_rw1_100_42808.trace	 [100x42808]
+
+  [GUESSES]
+	Guesses files:		 1
+	Guesses type:		 u
+	Transpose guesses:	 True
+	Total columns guesses:	 16
+	Guesses:
+		1. mem_addr1_rw1_100_42808.input	 [100x16]
+
+[/CONFIGURATION]
+
+[INFO] File LUT/AES_AFTER_SBOX not found, using /usr/local/share/daredevil/LUT/AES_AFTER_SBOX instead.
+[INFO] Lookup table specified at LUT/AES_AFTER_SBOX
+
+[ATTACK] Computing 1-order correlations...
+[ATTACK] Key byte number 0
+
+[ATTACK] Target bit number 0
+
+[ATTACK] Target bit number 1
+
+[ATTACK] Target bit number 2
+
+[ATTACK] Target bit number 3
+
+[ATTACK] Target bit number 4
+
+[ATTACK] Target bit number 5
+
+[ATTACK] Target bit number 6
+
+[ATTACK] Target bit number 7
+
+Best 10 candidates for key byte #0 according to sum(abs(bit_correlations)):
+ 1: 0x61  sum: 7.38383 
+ 2: 0x69  sum: 3.35297 
+ 3: 0x89  sum: 3.33675 
+ 4: 0xd3  sum: 3.33545 
+ 5: 0xfb  sum: 3.33445 
+ 6: 0xc9  sum: 3.28527 
+ 7: 0x08  sum: 3.28318 
+ 8: 0x17  sum: 3.28039 
+ 9: 0xd4  sum: 3.261   
+10: 0x19  sum: 3.25585 
+
+Best 10 candidates for key byte #0 according to highest abs(bit_correlations):
+ 1: 0x61  peak: 1       
+ 2: 0xc6  peak: 0.540239
+ 3: 0x14  peak: 0.506945
+ 4: 0x5d  peak: 0.503384
+ 5: 0x96  peak: 0.498897
+ 6: 0x19  peak: 0.494749
+ 7: 0x48  peak: 0.488646
+ 8: 0xc5  peak: 0.4877  
+ 9: 0x08  peak: 0.487642
+10: 0xd1  peak: 0.486265
+
+[INFO] Attack of byte number 0 done in 8.325869 seconds.
+
+[ATTACK] Key byte number 1
+
+[ATTACK] Target bit number 0
+
+[ATTACK] Target bit number 1
+
+[ATTACK] Target bit number 2
+
+[ATTACK] Target bit number 3
+
+[ATTACK] Target bit number 4
+
+[ATTACK] Target bit number 5
+
+[ATTACK] Target bit number 6
+
+[ATTACK] Target bit number 7
+
+Best 10 candidates for key byte #1 according to sum(abs(bit_correlations)):
+ 1: 0x31  sum: 8       
+ 2: 0x68  sum: 3.29174 
+ 3: 0x49  sum: 3.28406 
+ 4: 0xe2  sum: 3.25294 
+ 5: 0xa7  sum: 3.24836 
+ 6: 0xc2  sum: 3.23772 
+ 7: 0x7e  sum: 3.2368  
+ 8: 0xb1  sum: 3.2362  
+ 9: 0x1b  sum: 3.22887 
+10: 0xe7  sum: 3.22853 
+
+Best 10 candidates for key byte #1 according to highest abs(bit_correlations):
+ 1: 0x31  peak: 1       
+ 2: 0x11  peak: 0.537678
+ 3: 0xb1  peak: 0.518877
+ 4: 0x93  peak: 0.515768
+ 5: 0xea  peak: 0.512906
+ 6: 0x32  peak: 0.494749
+ 7: 0xe7  peak: 0.482165
+ 8: 0xe3  peak: 0.480504
+ 9: 0x68  peak: 0.48    
+10: 0x29  peak: 0.479792
+
+[INFO] Attack of byte number 1 done in 8.283986 seconds.
+
+[ATTACK] Key byte number 2
+
+[ATTACK] Target bit number 0
+
+[ATTACK] Target bit number 1
+
+[ATTACK] Target bit number 2
+
+[ATTACK] Target bit number 3
+
+[ATTACK] Target bit number 4
+
+[ATTACK] Target bit number 5
+
+[ATTACK] Target bit number 6
+
+[ATTACK] Target bit number 7
+
+Best 10 candidates for key byte #2 according to sum(abs(bit_correlations)):
+ 1: 0x6c  sum: 7.41408 
+ 2: 0x56  sum: 3.40413 
+ 3: 0x87  sum: 3.34585 
+ 4: 0xfa  sum: 3.30812 
+ 5: 0x2d  sum: 3.28598 
+ 6: 0xd4  sum: 3.27925 
+ 7: 0x65  sum: 3.27919 
+ 8: 0x73  sum: 3.27629 
+ 9: 0x1f  sum: 3.27629 
+10: 0xfc  sum: 3.27078 
+
+Best 10 candidates for key byte #2 according to highest abs(bit_correlations):
+ 1: 0x6c  peak: 1       
+ 2: 0xd4  peak: 0.519366
+ 3: 0x1e  peak: 0.518325
+ 4: 0x1f  peak: 0.514262
+ 5: 0xfa  peak: 0.50371 
+ 6: 0xd1  peak: 0.50371 
+ 7: 0xda  peak: 0.497689
+ 8: 0x15  peak: 0.494749
+ 9: 0xef  peak: 0.491558
+10: 0x7e  peak: 0.483828
+
+[INFO] Attack of byte number 2 done in 8.385878 seconds.
+
+[ATTACK] Key byte number 3
+
+[ATTACK] Target bit number 0
+
+[ATTACK] Target bit number 1
+
+[ATTACK] Target bit number 2
+
+[ATTACK] Target bit number 3
+
+[ATTACK] Target bit number 4
+
+[ATTACK] Target bit number 5
+
+[ATTACK] Target bit number 6
+
+[ATTACK] Target bit number 7
+
+Best 10 candidates for key byte #3 according to sum(abs(bit_correlations)):
+ 1: 0x5f  sum: 8       
+ 2: 0x86  sum: 3.30428 
+ 3: 0x04  sum: 3.26188 
+ 4: 0x45  sum: 3.26152 
+ 5: 0x56  sum: 3.25414 
+ 6: 0x83  sum: 3.2506  
+ 7: 0x6f  sum: 3.24641 
+ 8: 0xcb  sum: 3.23345 
+ 9: 0xba  sum: 3.23171 
+10: 0x75  sum: 3.21975 
+
+Best 10 candidates for key byte #3 according to highest abs(bit_correlations):
+ 1: 0x5f  peak: 1       
+ 2: 0x86  peak: 0.558819
+ 3: 0x8b  peak: 0.511038
+ 4: 0x56  peak: 0.509869
+ 5: 0x13  peak: 0.506158
+ 6: 0xd6  peak: 0.502519
+ 7: 0x05  peak: 0.501301
+ 8: 0xad  peak: 0.4997  
+ 9: 0xab  peak: 0.498898
+10: 0x45  peak: 0.494949
+
+[INFO] Attack of byte number 3 done in 8.369157 seconds.
+
+[ATTACK] Key byte number 4
+
+[ATTACK] Target bit number 0
+
+[ATTACK] Target bit number 1
+
+[ATTACK] Target bit number 2
+
+[ATTACK] Target bit number 3
+
+[ATTACK] Target bit number 4
+
+[ATTACK] Target bit number 5
+
+[ATTACK] Target bit number 6
+
+[ATTACK] Target bit number 7
+
+Best 10 candidates for key byte #4 according to sum(abs(bit_correlations)):
+ 1: 0x74  sum: 7.35823 
+ 2: 0x47  sum: 3.32067 
+ 3: 0xe4  sum: 3.31639 
+ 4: 0x69  sum: 3.27895 
+ 5: 0x87  sum: 3.27231 
+ 6: 0x02  sum: 3.25918 
+ 7: 0xad  sum: 3.25596 
+ 8: 0x7e  sum: 3.23244 
+ 9: 0x28  sum: 3.22871 
+10: 0xca  sum: 3.22598 
+
+Best 10 candidates for key byte #4 according to highest abs(bit_correlations):
+ 1: 0x74  peak: 1       
+ 2: 0xe4  peak: 0.559921
+ 3: 0xad  peak: 0.507337
+ 4: 0x87  peak: 0.504973
+ 5: 0x47  peak: 0.500103
+ 6: 0x98  peak: 0.498897
+ 7: 0x5b  peak: 0.497689
+ 8: 0x03  peak: 0.492787
+ 9: 0x70  peak: 0.489884
+10: 0x45  peak: 0.489533
+
+[INFO] Attack of byte number 4 done in 8.295260 seconds.
+
+[ATTACK] Key byte number 5
+
+[ATTACK] Target bit number 0
+
+[ATTACK] Target bit number 1
+
+[ATTACK] Target bit number 2
+
+[ATTACK] Target bit number 3
+
+[ATTACK] Target bit number 4
+
+[ATTACK] Target bit number 5
+
+[ATTACK] Target bit number 6
+
+[ATTACK] Target bit number 7
+
+Best 10 candidates for key byte #5 according to sum(abs(bit_correlations)):
+ 1: 0x34  sum: 8       
+ 2: 0xd7  sum: 3.31226 
+ 3: 0x8d  sum: 3.29737 
+ 4: 0x7f  sum: 3.29518 
+ 5: 0x68  sum: 3.28879 
+ 6: 0x1b  sum: 3.28193 
+ 7: 0x82  sum: 3.2682  
+ 8: 0xa6  sum: 3.26205 
+ 9: 0x0e  sum: 3.26013 
+10: 0x30  sum: 3.25714 
+
+Best 10 candidates for key byte #5 according to highest abs(bit_correlations):
+ 1: 0x34  peak: 1       
+ 2: 0x1b  peak: 0.537647
+ 3: 0xa2  peak: 0.522245
+ 4: 0x37  peak: 0.501623
+ 5: 0x53  peak: 0.4997  
+ 6: 0x16  peak: 0.498897
+ 7: 0x03  peak: 0.49316 
+ 8: 0x00  peak: 0.488724
+ 9: 0xc8  peak: 0.4877  
+10: 0x02  peak: 0.4877  
+
+[INFO] Attack of byte number 5 done in 8.333382 seconds.
+
+[ATTACK] Key byte number 6
+
+[ATTACK] Target bit number 0
+
+[ATTACK] Target bit number 1
+
+[ATTACK] Target bit number 2
+
+[ATTACK] Target bit number 3
+
+[ATTACK] Target bit number 4
+
+[ATTACK] Target bit number 5
+
+[ATTACK] Target bit number 6
+
+[ATTACK] Target bit number 7
+
+Best 10 candidates for key byte #6 according to sum(abs(bit_correlations)):
+ 1: 0x62  sum: 7.33929 
+ 2: 0x72  sum: 3.27991 
+ 3: 0x89  sum: 3.27245 
+ 4: 0x94  sum: 3.26427 
+ 5: 0x4c  sum: 3.25456 
+ 6: 0xdf  sum: 3.2509  
+ 7: 0xfd  sum: 3.24443 
+ 8: 0x20  sum: 3.23597 
+ 9: 0x12  sum: 3.23436 
+10: 0xc2  sum: 3.22508 
+
+Best 10 candidates for key byte #6 according to highest abs(bit_correlations):
+ 1: 0x62  peak: 1       
+ 2: 0xcb  peak: 0.495249
+ 3: 0x08  peak: 0.494949
+ 4: 0xcd  peak: 0.485347
+ 5: 0x1d  peak: 0.485347
+ 6: 0x8c  peak: 0.484525
+ 7: 0x12  peak: 0.483828
+ 8: 0x94  peak: 0.482165
+ 9: 0x7b  peak: 0.480504
+10: 0xdf  peak: 0.479388
+
+[INFO] Attack of byte number 6 done in 8.327984 seconds.
+
+[ATTACK] Key byte number 7
+
+[ATTACK] Target bit number 0
+
+[ATTACK] Target bit number 1
+
+[ATTACK] Target bit number 2
+
+[ATTACK] Target bit number 3
+
+[ATTACK] Target bit number 4
+
+[ATTACK] Target bit number 5
+
+[ATTACK] Target bit number 6
+
+[ATTACK] Target bit number 7
+
+Best 10 candidates for key byte #7 according to sum(abs(bit_correlations)):
+ 1: 0x31  sum: 8       
+ 2: 0x46  sum: 3.32826 
+ 3: 0x24  sum: 3.32728 
+ 4: 0x56  sum: 3.32159 
+ 5: 0xdc  sum: 3.31638 
+ 6: 0x49  sum: 3.28197 
+ 7: 0xa0  sum: 3.28091 
+ 8: 0x44  sum: 3.27599 
+ 9: 0x6a  sum: 3.27028 
+10: 0xc6  sum: 3.26887 
+
+Best 10 candidates for key byte #7 according to highest abs(bit_correlations):
+ 1: 0x31  peak: 1       
+ 2: 0xfc  peak: 0.540975
+ 3: 0x46  peak: 0.52508 
+ 4: 0xb7  peak: 0.515472
+ 5: 0x56  peak: 0.500103
+ 6: 0xc3  peak: 0.4997  
+ 7: 0x49  peak: 0.496069
+ 8: 0xa6  peak: 0.48933 
+ 9: 0x2f  peak: 0.486265
+10: 0xdc  peak: 0.483215
+
+[INFO] Attack of byte number 7 done in 8.359034 seconds.
+
+[ATTACK] Key byte number 8
+
+[ATTACK] Target bit number 0
+
+[ATTACK] Target bit number 1
+
+[ATTACK] Target bit number 2
+
+[ATTACK] Target bit number 3
+
+[ATTACK] Target bit number 4
+
+[ATTACK] Target bit number 5
+
+[ATTACK] Target bit number 6
+
+[ATTACK] Target bit number 7
+
+Best 10 candidates for key byte #8 according to sum(abs(bit_correlations)):
+ 1: 0x33  sum: 7.37349 
+ 2: 0x02  sum: 3.3589  
+ 3: 0x47  sum: 3.32499 
+ 4: 0x17  sum: 3.2935  
+ 5: 0x44  sum: 3.26616 
+ 6: 0x77  sum: 3.25555 
+ 7: 0xdc  sum: 3.24968 
+ 8: 0x35  sum: 3.23704 
+ 9: 0x49  sum: 3.2317  
+10: 0x87  sum: 3.23034 
+
+Best 10 candidates for key byte #8 according to highest abs(bit_correlations):
+ 1: 0x33  peak: 1       
+ 2: 0x6b  peak: 0.518589
+ 3: 0x47  peak: 0.5001  
+ 4: 0x77  peak: 0.482165
+ 5: 0x0c  peak: 0.482043
+ 6: 0xf8  peak: 0.480592
+ 7: 0xab  peak: 0.480384
+ 8: 0x49  peak: 0.479792
+ 9: 0x87  peak: 0.47976 
+10: 0x30  peak: 0.478121
+
+[INFO] Attack of byte number 8 done in 8.435907 seconds.
+
+[ATTACK] Key byte number 9
+
+[ATTACK] Target bit number 0
+
+[ATTACK] Target bit number 1
+
+[ATTACK] Target bit number 2
+
+[ATTACK] Target bit number 3
+
+[ATTACK] Target bit number 4
+
+[ATTACK] Target bit number 5
+
+[ATTACK] Target bit number 6
+
+[ATTACK] Target bit number 7
+
+Best 10 candidates for key byte #9 according to sum(abs(bit_correlations)):
+ 1: 0x35  sum: 8       
+ 2: 0x30  sum: 3.40914 
+ 3: 0x13  sum: 3.31923 
+ 4: 0xca  sum: 3.28516 
+ 5: 0x46  sum: 3.2784  
+ 6: 0x0c  sum: 3.26114 
+ 7: 0xb7  sum: 3.24281 
+ 8: 0x79  sum: 3.23003 
+ 9: 0xb0  sum: 3.22699 
+10: 0x8a  sum: 3.2234  
+
+Best 10 candidates for key byte #9 according to highest abs(bit_correlations):
+ 1: 0x35  peak: 1       
+ 2: 0xb7  peak: 0.534619
+ 3: 0xca  peak: 0.532401
+ 4: 0xcc  peak: 0.518877
+ 5: 0x30  peak: 0.517522
+ 6: 0x7e  peak: 0.506945
+ 7: 0x83  peak: 0.503314
+ 8: 0x16  peak: 0.499525
+ 9: 0xba  peak: 0.498897
+10: 0x13  peak: 0.494028
+
+[INFO] Attack of byte number 9 done in 8.386092 seconds.
+
+[ATTACK] Key byte number 10
+
+[ATTACK] Target bit number 0
+
+[ATTACK] Target bit number 1
+
+[ATTACK] Target bit number 2
+
+[ATTACK] Target bit number 3
+
+[ATTACK] Target bit number 4
+
+[ATTACK] Target bit number 5
+
+[ATTACK] Target bit number 6
+
+[ATTACK] Target bit number 7
+
+Best 10 candidates for key byte #10 according to sum(abs(bit_correlations)):
+ 1: 0x5f  sum: 7.36054 
+ 2: 0x50  sum: 3.30761 
+ 3: 0x00  sum: 3.28513 
+ 4: 0x8e  sum: 3.28168 
+ 5: 0x5d  sum: 3.27494 
+ 6: 0xa7  sum: 3.27263 
+ 7: 0xaf  sum: 3.27023 
+ 8: 0x0f  sum: 3.25404 
+ 9: 0xc3  sum: 3.24894 
+10: 0x62  sum: 3.23819 
+
+Best 10 candidates for key byte #10 according to highest abs(bit_correlations):
+ 1: 0x5f  peak: 1       
+ 2: 0x8c  peak: 0.526787
+ 3: 0x97  peak: 0.522976
+ 4: 0xc0  peak: 0.514496
+ 5: 0x00  peak: 0.511814
+ 6: 0x22  peak: 0.507337
+ 7: 0xaf  peak: 0.506158
+ 8: 0x30  peak: 0.504242
+ 9: 0x62  peak: 0.503314
+10: 0x60  peak: 0.503017
+
+[INFO] Attack of byte number 10 done in 8.312471 seconds.
+
+[ATTACK] Key byte number 11
+
+[ATTACK] Target bit number 0
+
+[ATTACK] Target bit number 1
+
+[ATTACK] Target bit number 2
+
+[ATTACK] Target bit number 3
+
+[ATTACK] Target bit number 4
+
+[ATTACK] Target bit number 5
+
+[ATTACK] Target bit number 6
+
+[ATTACK] Target bit number 7
+
+Best 10 candidates for key byte #11 according to sum(abs(bit_correlations)):
+ 1: 0x52  sum: 8       
+ 2: 0xfd  sum: 3.29973 
+ 3: 0x89  sum: 3.29638 
+ 4: 0xb8  sum: 3.26497 
+ 5: 0xec  sum: 3.25816 
+ 6: 0x4f  sum: 3.24884 
+ 7: 0x39  sum: 3.22519 
+ 8: 0x88  sum: 3.22344 
+ 9: 0x9d  sum: 3.22246 
+10: 0x70  sum: 3.22167 
+
+Best 10 candidates for key byte #11 according to highest abs(bit_correlations):
+ 1: 0x52  peak: 1       
+ 2: 0xfd  peak: 0.560624
+ 3: 0xa5  peak: 0.525739
+ 4: 0x35  peak: 0.506945
+ 5: 0x4f  peak: 0.500902
+ 6: 0xbb  peak: 0.5001  
+ 7: 0xb6  peak: 0.498462
+ 8: 0xa4  peak: 0.496069
+ 9: 0x43  peak: 0.494028
+10: 0x9d  peak: 0.492787
+
+[INFO] Attack of byte number 11 done in 8.318626 seconds.
+
+[ATTACK] Key byte number 12
+
+[ATTACK] Target bit number 0
+
+[ATTACK] Target bit number 1
+
+[ATTACK] Target bit number 2
+
+[ATTACK] Target bit number 3
+
+[ATTACK] Target bit number 4
+
+[ATTACK] Target bit number 5
+
+[ATTACK] Target bit number 6
+
+[ATTACK] Target bit number 7
+
+Best 10 candidates for key byte #12 according to sum(abs(bit_correlations)):
+ 1: 0x5f  sum: 7.42008 
+ 2: 0x77  sum: 3.3233  
+ 3: 0xbd  sum: 3.30698 
+ 4: 0x83  sum: 3.30557 
+ 5: 0xe5  sum: 3.28633 
+ 6: 0x78  sum: 3.24073 
+ 7: 0xca  sum: 3.2364  
+ 8: 0x82  sum: 3.23507 
+ 9: 0xfd  sum: 3.23078 
+10: 0xd9  sum: 3.22834 
+
+Best 10 candidates for key byte #12 according to highest abs(bit_correlations):
+ 1: 0x5f  peak: 1       
+ 2: 0xcc  peak: 0.604367
+ 3: 0x82  peak: 0.512987
+ 4: 0xf3  peak: 0.511038
+ 5: 0xd3  peak: 0.510404
+ 6: 0x4e  peak: 0.496069
+ 7: 0x77  peak: 0.494749
+ 8: 0xfd  peak: 0.48933 
+ 9: 0x58  peak: 0.48872 
+10: 0x6f  peak: 0.483828
+
+[INFO] Attack of byte number 12 done in 8.532065 seconds.
+
+[ATTACK] Key byte number 13
+
+[ATTACK] Target bit number 0
+
+[ATTACK] Target bit number 1
+
+[ATTACK] Target bit number 2
+
+[ATTACK] Target bit number 3
+
+[ATTACK] Target bit number 4
+
+[ATTACK] Target bit number 5
+
+[ATTACK] Target bit number 6
+
+[ATTACK] Target bit number 7
+
+Best 10 candidates for key byte #13 according to sum(abs(bit_correlations)):
+ 1: 0x6f  sum: 8       
+ 2: 0x6d  sum: 3.30237 
+ 3: 0x72  sum: 3.29771 
+ 4: 0x93  sum: 3.29293 
+ 5: 0xd9  sum: 3.27963 
+ 6: 0xc7  sum: 3.27122 
+ 7: 0x80  sum: 3.25972 
+ 8: 0x54  sum: 3.25957 
+ 9: 0x97  sum: 3.25678 
+10: 0x03  sum: 3.25533 
+
+Best 10 candidates for key byte #13 according to highest abs(bit_correlations):
+ 1: 0x6f  peak: 1       
+ 2: 0xb9  peak: 0.537242
+ 3: 0x05  peak: 0.500103
+ 4: 0xa6  peak: 0.4997  
+ 5: 0x18  peak: 0.497689
+ 6: 0x3b  peak: 0.491728
+ 7: 0x93  peak: 0.48872 
+ 8: 0x32  peak: 0.486265
+ 9: 0x03  peak: 0.486265
+10: 0x52  peak: 0.48495 
+
+[INFO] Attack of byte number 13 done in 8.506902 seconds.
+
+[ATTACK] Key byte number 14
+
+[ATTACK] Target bit number 0
+
+[ATTACK] Target bit number 1
+
+[ATTACK] Target bit number 2
+
+[ATTACK] Target bit number 3
+
+[ATTACK] Target bit number 4
+
+[ATTACK] Target bit number 5
+
+[ATTACK] Target bit number 6
+
+[ATTACK] Target bit number 7
+
+Best 10 candidates for key byte #14 according to sum(abs(bit_correlations)):
+ 1: 0x52  sum: 7.40248 
+ 2: 0xf5  sum: 3.31026 
+ 3: 0x6a  sum: 3.29787 
+ 4: 0x81  sum: 3.29618 
+ 5: 0x93  sum: 3.2866  
+ 6: 0xc3  sum: 3.27469 
+ 7: 0x64  sum: 3.27138 
+ 8: 0x2e  sum: 3.26655 
+ 9: 0xa5  sum: 3.26022 
+10: 0x7c  sum: 3.25108 
+
+Best 10 candidates for key byte #14 according to highest abs(bit_correlations):
+ 1: 0x52  peak: 1       
+ 2: 0x2e  peak: 0.561801
+ 3: 0xbd  peak: 0.525303
+ 4: 0x9a  peak: 0.520608
+ 5: 0x26  peak: 0.520416
+ 6: 0xfa  peak: 0.50371 
+ 7: 0xa7  peak: 0.503402
+ 8: 0x64  peak: 0.5001  
+ 9: 0x6a  peak: 0.497283
+10: 0x85  peak: 0.496069
+
+[INFO] Attack of byte number 14 done in 8.354882 seconds.
+
+[ATTACK] Key byte number 15
+
+[ATTACK] Target bit number 0
+
+[ATTACK] Target bit number 1
+
+[ATTACK] Target bit number 2
+
+[ATTACK] Target bit number 3
+
+[ATTACK] Target bit number 4
+
+[ATTACK] Target bit number 5
+
+[ATTACK] Target bit number 6
+
+[ATTACK] Target bit number 7
+
+Best 10 candidates for key byte #15 according to sum(abs(bit_correlations)):
+ 1: 0x35  sum: 8       
+ 2: 0x78  sum: 3.26026 
+ 3: 0x86  sum: 3.25298 
+ 4: 0x2f  sum: 3.25068 
+ 5: 0x9b  sum: 3.2501  
+ 6: 0x03  sum: 3.24081 
+ 7: 0x3e  sum: 3.23695 
+ 8: 0x92  sum: 3.23682 
+ 9: 0xef  sum: 3.23473 
+10: 0xa6  sum: 3.23414 
+
+Best 10 candidates for key byte #15 according to highest abs(bit_correlations):
+ 1: 0x35  peak: 1       
+ 2: 0x78  peak: 0.503314
+ 3: 0xc3  peak: 0.489028
+ 4: 0xa4  peak: 0.485142
+ 5: 0xef  peak: 0.483494
+ 6: 0x27  peak: 0.482165
+ 7: 0x58  peak: 0.482165
+ 8: 0x10  peak: 0.479042
+ 9: 0x86  peak: 0.473006
+10: 0x55  peak: 0.47187 
+
+[INFO] Attack of byte number 15 done in 8.273791 seconds.
+
+Most probable key sum(abs):
+1: 123.052: 61316c5f7434623133355f525f6f5235
+2: 119.042: 6131565f7434623133355f525f6f5235
+3: 119.037: 61316c5f7434623102355f525f6f5235
+4: 119.021: 69316c5f7434623133355f525f6f5235
+5: 119.014: 61316c5f4734623133355f525f6f5235
+6: 115.027: 6131565f7434623102355f525f6f5235
+7: 115.011: 6931565f7434623133355f525f6f5235
+8: 115.007: 69316c5f7434623102355f525f6f5235
+9: 115.005: 6131565f4734623133355f525f6f5235
+10: 115: 61316c5f4734623102355f525f6f5235
+
+Most probable key max(abs):
+1: 16: 61316c5f7434623133355f525f6f5235
+2: 15.6044: 61316c5f7434623133355f52cc6f5235
+3: 15.5618: 61316c5f7434623133355f525f6f2e35
+4: 15.5606: 61316c5f7434623133355ffd5f6f5235
+5: 15.5599: 61316c5fe434623133355f525f6f5235
+6: 15.1662: 61316c5f7434623133355f52cc6f2e35
+7: 15.165: 61316c5f7434623133355ffdcc6f5235
+8: 15.1643: 61316c5fe434623133355f52cc6f5235
+9: 15.1224: 61316c5f7434623133355ffd5f6f2e35
+10: 15.1217: 61316c5fe434623133355f525f6f2e35
+[INFO] Total attack of file LUT/AES_AFTER_SBOX done in 133.811527 seconds.
+
+daredevil -c mem_addr1_rw1_100_42808.attack_sbox.config  260.66s user 2.43s system 196% cpu 2:13.82 total
