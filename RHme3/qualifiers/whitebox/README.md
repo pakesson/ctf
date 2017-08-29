@@ -1,6 +1,8 @@
-# Challenge 1: Whitebox
+# Qualifier Challenge 1: White Box Unboxing (1 point)
 
-## DCA
+> Here is a binary implementing a cryptographic algorithm. You provide an input
+> and it produces the corresponding output. Can you extract the key?
+
 This challenge can be solved easily with DCA using the
 [SideChannelMarvels](https://github.com/SideChannelMarvels) tools.
 
